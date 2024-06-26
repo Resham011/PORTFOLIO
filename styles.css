@@ -194,20 +194,20 @@ section p {
     margin: 0 15px; 
 }
 
-/* Additional styles for color */
+
 body {
     background-color: #f4f4f9; 
     color: #333;
 }
 
 #wrapper {
-    background: #ffffff; /* White background for content */
+    background: #ffffff;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
 }
 
 header {
-    background-color: #6c5b7b; /* Deep purple */
+    background-color: #6c5b7b; 
 }
 
 header h1 {
@@ -223,7 +223,7 @@ nav ul li a:hover {
 }
 
 section {
-    background: #f9f9f9; /* Light gray background */
+    background: #f9f9f9; 
     border-radius: 8px;
 }
 
@@ -233,20 +233,20 @@ section h2 {
 
 .project {
     background: #ffffff;
-    border-left: 5px solid #6c5b7b; /* Deep purple border */
+    border-left: 5px solid #6c5b7b; 
 }
 
 .project a {
-    background: #6c5b7b; /* Deep purple */
+    background: #6c5b7b; 
     color: #ffffff;
 }
 
 .project a:hover {
-    background: #7d6e91; /* Lighter purple */
+    background: #7d6e91; 
 }
 
 #skills {
-    background: #f9f9f9; /* Light gray */
+    background: #f9f9f9; 
     border-radius: 8px;
 }
 
@@ -263,12 +263,12 @@ section h2 {
 }
 
 #contact {
-    background: #f9f9f9; /* Light gray */
+    background: #f9f9f9; 
     border-radius: 8px;
 }
 
 #contact h2 {
-    color: #6c5b7b; /* Deep purple */
+    color: #6c5b7b; 
 }
 
 .contact-icons a {
@@ -276,7 +276,7 @@ section h2 {
 }
 
 .contact-icons a:hover {
-    transform: scale(1.2); /* Scale up on hover */
+    transform: scale(1.2); 
 }
 
 .contact-icons img {
